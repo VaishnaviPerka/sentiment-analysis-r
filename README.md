@@ -1,4 +1,3 @@
-# sentiment-analysis-r
 # Sentiment Analysis with R — NLP Teaching Notebook
 
 > An educational Jupyter Notebook introducing R programming and NLP-based sentiment analysis using the AFINN lexicon — developed during a Research Assistant role at the College of Business, Michigan Technological University.
